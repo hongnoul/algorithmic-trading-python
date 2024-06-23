@@ -1,6 +1,8 @@
-# Algorithmic Trading in Python
+## py -m venv myenv
+## myenv\Scripts\Activate
+## pip install -r requirements.txt
 
-This repository
+# Algorithmic Trading in Python
 
 ## Course Outline
 
